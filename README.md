@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @evokerking1
 - 👀 I’m interested in ... Programming
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ...java
+- 💞️ I’m looking to collaborate on ... MC mods
 - 📫 How to reach me ...
 
 <!---
