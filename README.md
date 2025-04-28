@@ -4,10 +4,12 @@ You can click the Preview link to take a look at your changes. hi
 --->
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=evokerking1&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
 # Languages
-![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,java,python,html,CSS,rust,ts)
+![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,java,python,html,CSS,rust,ts&includeNames=true
+)
 
 # Frameworks
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=react,next,electron,tailwind,express)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=react,next,electron,tailwind,express&includeNames=true
+)](https://github.com/Jurredr/github-widgetbox)
 
 # Github stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=evokerking1&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
